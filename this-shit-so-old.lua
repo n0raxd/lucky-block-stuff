@@ -17,7 +17,7 @@ Luckygiver:NewButton("Spawn Rainbow Block", "Spawns Rainbow block gears", functi
 Luckygiver:NewButton("Spawn Galaxy Block", "Spawns Galaxy block gears", function()
 			game:GetService("ReplicatedStorage").SpawnGalaxyBlock:FireServer()
 		end)
-Luckygiver:NewButton("invisible/godmode", "gives u godmode and makes u invisible", function()
+Luckygiver:NewButton("invisible", "makes you invisible", function()
 -- FE Invisible
 
 Local = game:GetService('Players').LocalPlayer
