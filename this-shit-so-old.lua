@@ -1,5 +1,4 @@
--- made by n0ra_xd like 2 years ago and i randomly felt like releasing it
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/discordpopup/main/discord-popup",true))()
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/shidemuri/scripts/main/ui_lib.lua"))()
 local Pendulum = Library:New("lucky blocks fucker")
 local Luckygiver = Pendulum:NewTab("Exploits")
